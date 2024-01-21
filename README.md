@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+currently a sophomore undergraduate pursuing B.Tech in CSE at IIT Delhi 
 <!--
 **MahirPatel16/MahirPatel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
